@@ -1,7 +1,7 @@
 # Global-Solution---Pensamento-Computacional-Python
 Global Solution - Missão Evortex
 
-Mission Control AI — EVORTEX (versão interativa)
+Mission Control AI — EVORTEX
 
 O que o programa é
 É um sistema de terminal que simula uma central de controle de missão espacial. Em vez de usar dados fixos no código, o próprio usuário digita os valores dos sensores ciclo a ciclo, e o programa analisa tudo em tempo real e gera o relatório completo.
